@@ -1,6 +1,6 @@
 # 👋 Hi friends, I'm Adam
       
-###### Director of Engineering at Indigo • Advisor • Speaker • Writer
+##### Director of Engineering at Indigo • Advisor • Speaker • Writer
       
 ## 🚜 Current work 
       
