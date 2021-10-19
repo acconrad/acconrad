@@ -22,7 +22,7 @@ I’m currently working on a companion book to _The Algorithm Design Manual_ wri
 
 - 🔭 I’m currently working on my side project, [GetToKnow](https://gettoknowapp.com)
 - 🌱 I’m currently learning [advanced topics in TypeScript](https://www.amazon.com/Advanced-TypeScript-Programming-Projects-JavaScript/dp/1789133041)
-- 👯 I’m looking to collaborate on **open source JavaScipt projects**
+- 👯 I’m looking to collaborate on **open source JavaScript projects**
 - 🤔 I’m looking for help with [editing my book](https://www.adamconrad.dev/tag/algorithms/)
 - 💬 Ask me about [speaking with me on Software Engineering Radio](https://www.se-radio.net/team/adam-c-conrad/)
 - 📫 How to reach me: [my website has all my info](https://www.adamconrad.dev)
