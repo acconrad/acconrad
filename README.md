@@ -2,7 +2,7 @@
       
 ##### Engineering Manager @ Meta • Advisor • Speaker • Writer
       
-## 🚜 Current work 
+## 🌐 Current work 
       
 I lead some web front end teams for [Facebook dot com](https://facebook.com/). I also run the [GetToKnow](https://gettoknowapp.com/) Slack app to help you learn about your teammates and [PeerGym](https://peergym.herokuapp.com/) for finding gyms in your local community. Need some technical expertise? Check out my [boutique consulting firm](https://anonconsulting.com/).
       
