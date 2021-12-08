@@ -1,10 +1,10 @@
 # 👋 Hi friends, I'm Adam
       
-##### Director of Engineering at Indigo • Advisor • Speaker • Writer
+##### Engineering Manager @ Meta • Advisor • Speaker • Writer
       
 ## 🚜 Current work 
       
-I lead the Transport team at [Indigo](https://indigoag.com/) trying to sustainably feed the world through better farming. I also run the [GetToKnow](https://gettoknowapp.com/) Slack app to help you learn about your teammates and [PeerGym](https://peergym.herokuapp.com/) for finding gyms in your local community. Need some technical expertise? Check out my [boutique consulting firm](https://anonconsulting.com/).
+I lead some web front end teams for [Facebook dot com](https://facebook.com/). I also run the [GetToKnow](https://gettoknowapp.com/) Slack app to help you learn about your teammates and [PeerGym](https://peergym.herokuapp.com/) for finding gyms in your local community. Need some technical expertise? Check out my [boutique consulting firm](https://anonconsulting.com/).
       
 ## 🌎 Open source contributions
       
@@ -16,7 +16,7 @@ All of my talks can be found on [SpeakerDeck](https://speakerdeck.com/acconrad).
       
 ## ✏️ Books I’m writing 
       
-I’m currently working on a companion book to _The Algorithm Design Manual_ written in JavaScript based on [this series](https://www.adamconrad.dev/tag/algorithms/). If you’re interested in getting an early copy [sign up for the newsletter](https://userinterfacing.substack.com/).
+I’m currently working on a interview prep book for engineering managers. If you’re interested in getting an early copy [sign up for the newsletter](https://userinterfacing.substack.com/).
       
 ### Other stuff GitHub thinks I should tell you about
 
